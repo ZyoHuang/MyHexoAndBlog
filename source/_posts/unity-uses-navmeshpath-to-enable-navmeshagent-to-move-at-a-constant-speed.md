@@ -1,10 +1,13 @@
 ---
 title: Unity使用NavMeshPath实现NavMeshAgent匀速移动
-tag: 
-	-Unity
-    -寻路系统
-categories: GamePlay
-top_img: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/04/10.gif
+date:
+updated:
+tags:
+categories:
+keywords:
+top_img:
+cover:
+aplayer:
 ---
 <meta name="referrer" content="no-referrer" />
 
@@ -12,7 +15,7 @@ top_img: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/04/10.gif
 为了准备老师的课设作业，我决定做一个RPG小游戏，在处理寻路的时候遇到了点小麻烦。
 首先是解决方案的选取，Unity自带的Navgation Mesh挺强大的（至少在客户端是这样，hh），我之前一直用的`A*`，但是不知道为什么老版本的`A*`在Unity 2019.3的InspectorGUI是坏掉的。。。又没钱买正版。。。
 emmm，勉为其难的选择Navgation Mesh吧。
-但是Navgation Mesh好像只有带有加速度的移动方式，这就有点蛋疼，说实话我个人挺不喜欢那种手感的，所以查了查官方文档，发现了NavMeshPath这么个东西，用它就可以得到我们一次寻路过程中所有的转折点，从而自己处理寻路，那么，我们开始吧。[toc]
+但是Navgation Mesh好像只有带有加速度的移动方式，这就有点蛋疼，说实话我个人挺不喜欢那种手感的，所以查了查官方文档，发现了NavMeshPath这么个东西，用它就可以得到我们一次寻路过程中所有的转折点，从而自己处理寻路，那么，我们开始吧。
 ## 思路
 通过调用NavMeshAgent的CalculatePath来得到NavMeshPath，并使用NavMeshPath的corners数组（记录了每一处拐点的位置）和Transform.Translate做匀速运动，`人物方向的改变需要自己处理`。
 ## 代码

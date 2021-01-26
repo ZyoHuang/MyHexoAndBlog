@@ -1,10 +1,16 @@
 ---
-title: Introduction to Direct3D 12
-tag: DX12
-categories: 图形渲染
-top_img: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201230203531
+title: （译）Introduction To Direct3D 12
+date:
+updated:
+tags:
+categories:
+keywords:
+top_img:
+cover:
+aplayer:
 ---
 <meta name="referrer" content="no-referrer" />
+
 本文翻译自：[Introduction to Direct3D 12](https://www.braynzarsoft.net/viewtutorial/q16390-03-initializing-directx-12) 的前半部分，前半部分讲了一些DX细节，对于理解基础知识很有帮助，后半部分偏实践练习，翻译意义不大。
 
 # 介绍Direct3D 12
