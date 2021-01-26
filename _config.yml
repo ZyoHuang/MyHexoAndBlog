@@ -11,11 +11,19 @@ author: 烟雨迷离半世殇
 language: zh-CN
 timezone: ''
 
+markdown_it_plus:
+  plugins:
+    - plugin:
+      name: '@neilsustc/markdown-it-katex'
+      enable: true
+      options:
+        strict: false
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://www.lfzxb.top
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -99,6 +107,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
+
+aplayer:
+    meting: true
+    asset_inject: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
