@@ -6,7 +6,7 @@ tags:
 categories:
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/Login.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />
