@@ -1,10 +1,11 @@
 ---
 title: 英魂之刃口袋版——西门飞雪教学
-tags: []
+tags: [游戏, 英魂之刃口袋版]
 id: '469'
 cover: http://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/02/1920x1200.jpg
 categories:
   - - 游戏
+  - 英魂之刃
 date: 2019-02-07 19:05:19
 ---
 
