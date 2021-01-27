@@ -2,11 +2,13 @@
 title: Unity编辑器拓展基础总结
 date:
 updated:
-tags:
+tags: [Unity技术, 编辑器拓展, 工具开发]
 categories:
-keywords:
+  - - 游戏引擎
+    - Unity
+  - 工具流
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20200925144255.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

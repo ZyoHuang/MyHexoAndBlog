@@ -2,8 +2,10 @@
 title: Socket学习笔记
 date:
 updated:
-tags:
+tags: [网络编程, Socket]
 categories:
+  - - GamePlay
+    - 网络通信
 keywords:
 top_img:
 cover:

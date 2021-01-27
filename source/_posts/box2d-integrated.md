@@ -2,11 +2,15 @@
 title: Box2D篇：整合Box2D到项目，并支持导出数据到服务端
 date:
 updated:
-tags:
+tags: [Unity技术, 可视化编辑器, 服务器, Box2D]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/07/QQ截图20190704203259.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />
@@ -32,6 +36,7 @@ aplayer:
 同样的，我们在服务端创建Box2D项目
 ![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/07/QQ截图20190704203259.png)
 `注意要开启允许不安全代码才不会报错`
+
 ### Box2D碰撞体数据可视化编辑器
 [https://www.lfzxb.top/box2d_unityvistualeditor/](https://www.lfzxb.top/box2d_unityvistualeditor/)
 ### Box2D碰撞体碰撞关系可视化编辑器

@@ -1,11 +1,13 @@
 ---
 title: Unity Profiler学习笔记：监测你的应用
-tags: []
+tags: Unity技术
 id: '2034'
 categories:
-  - - '%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e'
+  - - 游戏引擎
     - Unity
+  - - 性能优化
 date: 2019-09-24 21:10:22
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/09/profiler-build-settings.png
 ---
 
 <meta name="referrer" content="no-referrer" />
@@ -14,7 +16,7 @@ date: 2019-09-24 21:10:22
 
 ### 前言
 
-要在目标发布平台上配置您的应用程序，请将目标设备连接到您的网络或通过电缆（emmm，应该指的是usb，typec，雷电这种吧）直接连接到您的计算机。您还可以在Unity编辑器中直接对应用程序进行分析，以便在应用程序开发期间大致分析结果。\[toc\]
+要在目标发布平台上配置您的应用程序，请将目标设备连接到您的网络或通过电缆（emmm，应该指的是usb，typec，雷电这种吧）直接连接到您的计算机。您还可以在Unity编辑器中直接对应用程序进行分析，以便在应用程序开发期间大致分析结果。
 
 ### Remote profiling（远程性能分析）
 

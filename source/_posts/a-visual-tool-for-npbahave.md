@@ -2,8 +2,12 @@
 title: 为NPBehave而生的可视化编辑器介绍
 date:
 updated:
-tags:
+tags: [Unity技术, 可视化节点编辑器, 编辑器拓展, 行为树]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
 cover:

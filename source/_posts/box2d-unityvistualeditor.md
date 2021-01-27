@@ -1,12 +1,13 @@
 ---
 title: Box2D篇：在Unity开发Box2D可视化编辑器拓展
-tags: []
-id: '1510'
+tags: [Unity技术, 可视化编辑器, 编辑器拓展, Box2D]
 categories:
   - - GamePlay
-  - - '%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e'
+    - 实用工具
+  - - 游戏引擎
     - Unity
 date: 2019-07-17 18:00:06
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/07/QQ截图20190717174309.png
 ---
 
 <meta name="referrer" content="no-referrer" />

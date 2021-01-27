@@ -2,11 +2,14 @@
 title: AssetBundle热更新完整工作流与知识点解析
 date:
 updated:
-tags:
+tags: [Unity资源管理]
 categories:
+  - - 游戏引擎
+    - Unity
+  - 热更新技术
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/11/QQ截图20191126220128.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

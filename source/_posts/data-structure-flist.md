@@ -1,12 +1,11 @@
 ---
 title: 数据结构篇：邻接表
-tags: []
-id: '1083'
+tags: 数据结构和算法
 categories:
-  - - C#
-  - - c
-    - 数据结构
+  - - CS基础
+    - 数据结构和算法
 date: 2019-04-30 20:56:43
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/20181117121212269.png
 ---
 
 <meta name="referrer" content="no-referrer" />

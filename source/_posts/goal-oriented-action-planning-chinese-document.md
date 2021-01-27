@@ -1,10 +1,11 @@
 ---
 title: ReGoap（目标导向的AI系统）中文文档
-tags: []
-id: '2761'
+tags: [GamePlay, AI, GOAP]
 categories:
   - - GamePlay
+    - AI
 date: 2020-04-16 21:54:17
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/image-20200730093651093.png
 ---
 
 <meta name="referrer" content="no-referrer" />

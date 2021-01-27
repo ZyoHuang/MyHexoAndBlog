@@ -2,11 +2,15 @@
 title: GameFramework篇：VFS详解
 date:
 updated:
-tags:
+tags: [Unity技术, 游戏框架, GameFramework]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/20190105164355598.png
 keywords:
 top_img:
-cover:
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

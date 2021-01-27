@@ -1,10 +1,13 @@
 ---
 title: 对于游戏中的回放系统设计架构的畅想
-tags: []
-id: '2546'
+tags: [Unity技术, 服务器, 回放系统]
 categories:
   - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 date: 2020-02-01 15:41:30
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/02/QQ截图20200201153702.png
 ---
 
 <meta name="referrer" content="no-referrer" />

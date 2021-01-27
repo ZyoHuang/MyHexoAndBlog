@@ -1,11 +1,9 @@
 ---
 title: Google.Protobuf篇：官方案例AddressBook讲解
-tags: []
-id: '803'
+tags: [网络编程, ProtoBuffer]
 categories:
-  - - C#
-  - - c
-    - Google.Protobuf
+  - - GamePlay
+    - 网络通信
 date: 2019-04-29 16:50:18
 ---
 

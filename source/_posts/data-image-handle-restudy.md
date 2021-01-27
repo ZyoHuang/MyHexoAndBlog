@@ -2,11 +2,13 @@
 title: 数字图像处理复习纲要
 date:
 updated:
-tags:
+tags: 计算机科学与技术
 categories:
+  - - CS基础
+    - 数字图像处理
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201123200539.png
 katex: true
 aplayer:
 ---

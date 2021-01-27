@@ -1,11 +1,9 @@
 ---
 title: C#篇：C#中异步方法的性能特征
-tags: []
-id: '1277'
+tags: [CSharp, 编程语言]
 categories:
-  - - C#
-  - - c
-    - 数据结构
+  - - 编程语言
+    - CSharp
 date: 2019-05-28 18:21:14
 ---
 

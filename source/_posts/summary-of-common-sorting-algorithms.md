@@ -1,14 +1,11 @@
 ---
 title: 常用排序算法汇总
-tags: []
-id: '2612'
+tags: 数据结构和算法
 categories:
-  - - 技术博客
-  - - c
-    - 数据结构
-  - - blog
-    - 计算机基础知识
+  - - CS基础
+    - 数据结构和算法
 date: 2020-02-15 22:23:59
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/02/QQ截图20200215194617.png
 ---
 
 <meta name="referrer" content="no-referrer" />
@@ -17,7 +14,7 @@ date: 2020-02-15 22:23:59
 
 # 前言
 
-记录并分析常用排序算法，方便自己日后查阅。\[toc\]
+记录并分析常用排序算法，方便自己日后查阅。
 
 ## 环境
 

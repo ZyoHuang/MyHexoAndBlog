@@ -1,12 +1,11 @@
 ---
 title: C#篇：对字典引用内容的探究
-tags: []
-id: '1570'
+tags: [编程语言]
 categories:
-  - - C#
-  - - c
-    - 数据结构
+  - - 编程语言
+    - CSharp
 date: 2019-07-23 11:08:42
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/07/QQ截图20190723105243.png
 ---
 
 <meta name="referrer" content="no-referrer" />

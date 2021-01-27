@@ -2,11 +2,13 @@
 title: （译）Introduction To Direct3D 12
 date:
 updated:
-tags:
+tags: [图形渲染, 文献翻译]
 categories:
+  - - 图形渲染
+    - 理论知识
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201230203541.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

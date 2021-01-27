@@ -2,11 +2,13 @@
 title: 图形学篇：图形学基础知识汇总（中：多维变换与裁剪投影
 date:
 updated:
-tags:
+tags: [图形渲染]
 categories:
+  - - 图形渲染
+    - 理论知识
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/06/QQ截图20190615165615.png
 katex: true
 aplayer:
 ---
@@ -97,6 +99,7 @@ $$P'\;=\;PT\;=\;P\prod_{k=1}^nT_k$$
 三维屏幕坐标系是左手系，原点位于屏幕中心，$z_s$轴方向沿着视线方向，$y_s$轴垂直向上为正向，$x_s$轴与$y_s$轴和$yz_s$轴成左手系。
 只有采用三维屏幕坐标系才能正确反映物体上点的深度信息。
 ![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/06/QQ截图20190615165615.png)
+
 ##### 设备坐标系
 显示器等图形输出设备自身都带有一个二维直角坐标系称为设备坐标系（DCS）。
 #### 窗口与视区

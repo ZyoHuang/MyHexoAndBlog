@@ -2,11 +2,15 @@
 title: ET篇：master消息机制介绍
 date:
 updated:
-tags:
+tags: [Unity技术, 游戏框架, GameFramework]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/QQ截图20190429175655.png
 katex: true
 aplayer:
 ---

@@ -2,11 +2,15 @@
 title: 为Unity搭建完善的的Cmd工作环境
 date:
 updated:
-tags:
+tags: [Unity技术, CMD]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201018145922.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

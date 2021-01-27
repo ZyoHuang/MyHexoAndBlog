@@ -2,11 +2,13 @@
 title: 计算机操作系统复习纲要
 date:
 updated:
-tags:
+tags: 计算机科学与技术
 categories:
+  - - CS基础
+    - 计算机操作系统
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/12/QQ截图20191205210058.png
 katex: true
 aplayer:
 ---

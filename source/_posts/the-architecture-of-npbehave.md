@@ -2,11 +2,15 @@
 title: NPBehave行为树架构
 date:
 updated:
-tags:
+tags: [GamePlay, AI, Behaviour Tree]
 categories:
+  - - GamePlay
+    - AI
+  - - GamePlay
+    - 实用工具
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/image-20200801204710082.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

@@ -2,11 +2,15 @@
 title: ET&&FGUI接入URP流程
 date:
 updated:
-tags:
+tags: [Unity技术, 游戏框架, ET]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201005210256.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

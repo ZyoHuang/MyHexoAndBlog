@@ -2,11 +2,12 @@
 title: 2019年度总结
 date:
 updated:
-tags:
+tags: [年终总结]
 categories:
+	- 日志
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/12/QQ截图20191231171450.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />
@@ -35,6 +36,7 @@ aplayer:
 20号左右就回家啦，我也迎来了大学的第一次挂科，大物考了55分好像，要问我有什么感受？
 [![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/12/QQ截图20191231171450.png)](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/12/QQ截图20191231171450.png)
 回家之后就是放飞自我，基本上没怎么学习。这就是我的六月，嗯，起飞。老飞行员了。
+
 ### 七月，八月
 #### 七月初
 英雄联盟出了个自走棋模式，一下子打乱了我所有的计划，真是讨厌呢。

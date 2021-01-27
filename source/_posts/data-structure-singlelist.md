@@ -1,12 +1,11 @@
 ---
 title: 数据结构篇：单链表
-tags: []
-id: '1088'
+tags: 数据结构和算法
 categories:
-  - - C#
-  - - c
-    - 数据结构
+  - - CS基础
+    - 数据结构和算法
 date: 2019-04-30 20:59:38
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/QQ截图20190430205840.png
 ---
 
 <meta name="referrer" content="no-referrer" />

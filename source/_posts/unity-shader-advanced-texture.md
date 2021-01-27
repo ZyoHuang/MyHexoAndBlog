@@ -2,11 +2,15 @@
 title: Unity Shader入门精要学习笔记：高级纹理
 date:
 updated:
-tags:
+tags: 图形渲染
 categories:
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/10/QQ截图20191019140950.png
 katex: true
 aplayer:
 ---
@@ -387,6 +391,7 @@ Unity为渲染目标纹理定义了一种专门的纹理类型——渲染纹理
 ### 镜子效果
 创建一个shader，用于左右反转uv，创建一个Render Texture，用以接收摄像机传来的纹理，额外创建一个摄像机，用以向Render Texture传递纹理。
 ![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/10/QQ截图20191019140950.png)
+
 ### 玻璃效果
 在Shader中定义一个GrabPass后，Unity会把当前屏幕的图像绘制在一张纹理中，以便我们在后续的Pass中继续访问它。
 使用GrabPass可以让我们对该物体后面的图像进行更加复杂的处理，例如使用法线来模拟折射效果，而不再是简单的和原屏幕颜色进行混合。

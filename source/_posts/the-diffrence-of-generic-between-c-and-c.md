@@ -2,8 +2,10 @@
 title: 浅谈C++与C#泛型编程的区别与联系
 date:
 updated:
-tags:
+tags: 编程语言
 categories:
+  - - 编程语言
+    - 杂谈
 keywords:
 top_img:
 cover:

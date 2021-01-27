@@ -2,8 +2,9 @@
 title: 我的大学历程
 date:
 updated:
-tags:
+tags: [多愁善感]
 categories:
+   - 日志
 keywords:
 top_img:
 cover:

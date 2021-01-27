@@ -2,11 +2,15 @@
 title: 关于ISharedComponent的一切
 date:
 updated:
-tags:
+tags: [Unity技术, 多线程, ECS, Unity DOTS]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - ECS
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/05/nordeus_jobsystem_2.jpg
 katex: true
 aplayer:
 ---

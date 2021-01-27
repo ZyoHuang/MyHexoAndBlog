@@ -1,12 +1,11 @@
 ---
 title: 数据结构篇：校园最短路径导航
-tags: []
-id: '1074'
+tags: 数据结构和算法
 categories:
-  - - C#
-  - - c
-    - 数据结构
+  - - CS基础
+    - 数据结构和算法
 date: 2019-04-30 20:52:41
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/20181203211125843.png
 ---
 
 <meta name="referrer" content="no-referrer" />

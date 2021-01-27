@@ -1,11 +1,12 @@
 ---
 title: Box2D篇：碰撞关系可视化编辑器
-tags: []
-id: '1580'
+tags: [Unity技术, 可视化节点编辑器, 编辑器拓展, Box2D]
 categories:
   - - GamePlay
-  - - '%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e'
+    - 实用工具
+  - - 游戏引擎
     - Unity
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/08/QQ截图20190801215422.png
 date: 2019-08-01 22:27:22
 ---
 

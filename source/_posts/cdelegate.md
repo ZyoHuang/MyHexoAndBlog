@@ -1,9 +1,9 @@
 ---
 title: C#：委托和事件
-tags: []
-id: '971'
+tags: [编程语言]
 categories:
-  - - C#
+  - - 编程语言
+    - CSharp
 date: 2019-04-29 22:36:25
 ---
 

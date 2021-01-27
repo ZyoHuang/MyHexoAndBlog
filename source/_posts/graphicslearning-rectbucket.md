@@ -1,9 +1,10 @@
 ---
 title: 图形学篇：多边形有效边表填充算法
-tags: []
-id: '1016'
+tags: [图形渲染]
 categories:
-  - - 图形学
+  - - 图形渲染
+    - 理论知识
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/20190419211002177.png
 date: 2019-04-30 18:29:57
 ---
 

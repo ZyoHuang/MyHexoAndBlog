@@ -2,11 +2,12 @@
 title: 提取LOL地图资源
 date:
 updated:
-tags:
 categories:
+  - - 其他
+    - 实用工具
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201031214838.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

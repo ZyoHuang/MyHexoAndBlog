@@ -1,10 +1,12 @@
 ---
 title: Unity Profiler学习笔记：初识Profile性能分析工具
-tags: []
+tags: Unity技术
 id: '1626'
 categories:
-  - - '%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e'
+  - - 游戏引擎
     - Unity
+  - - 性能优化
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/09/profiler-window-layout.png
 date: 2019-09-23 13:54:10
 ---
 

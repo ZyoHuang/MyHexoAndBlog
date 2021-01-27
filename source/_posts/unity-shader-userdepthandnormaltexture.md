@@ -2,11 +2,15 @@
 title: Unity Shader入门精要学习笔记：使用深度和法线纹理
 date:
 updated:
-tags:
+tags: 图形渲染
 categories:
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/11/QQ截图20191102213006.png
 katex: true
 aplayer:
 ---

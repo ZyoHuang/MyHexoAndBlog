@@ -1,9 +1,10 @@
 ---
 title: 图形学篇：Cohen-Sutherland直线段裁剪算法
-tags: []
-id: '1216'
+tags: [图形渲染]
 categories:
-  - - 图形学
+  - - 图形渲染
+    - 理论知识
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/05/QQ截图20190512114537.png
 date: 2019-05-12 12:41:33
 ---
 

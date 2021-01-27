@@ -2,11 +2,15 @@
 title: Unity Shader入门精要学习笔记：Unity中的基础光照
 date:
 updated:
-tags:
+tags: 图形渲染
 categories:
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/09/QQ截图20190901092840.png
 katex: true
 aplayer:
 ---
@@ -21,6 +25,7 @@ aplayer:
 在实时渲染中，我们通常把光源当成一个没有体积的点，用I表示他的方向。用`辐照度`来量化光。对于平行光，它的辐照度可通过计算在垂直于I的单位面积上单位时间内穿过的能量来得到。
 在计算光照模型时，我们需要知道一个物体表面的辐照度，而物体表面往往是和I不垂直的，那么如何计算这样的表面辐照度呢？我们可以使用光源方向I与表面发现n之间的夹角余弦值来得到。默认方向矢量模为1.
 ![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/09/QQ截图20190901092840.png)
+
 ### 吸收和散射
 光线由光源发射出来后，就会与一些物体相交。通常相交结果有两个：`散射`和`吸收`
 `散射只改变光线方向，但不改变光线的密度和颜色。而吸收只改变光线的密度和颜色，但是不改变光线方向。`

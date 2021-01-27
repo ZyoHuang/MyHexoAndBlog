@@ -2,11 +2,12 @@
 title: 给想入行游戏行业学弟学妹们的一封信
 date:
 updated:
-tags:
+tags: [多愁善感]
 categories:
+   - 日志
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201008213327.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

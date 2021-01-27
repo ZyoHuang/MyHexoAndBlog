@@ -2,11 +2,15 @@
 title: 理解并实现LOL中的攻速机制
 date:
 updated:
-tags:
+tags: [Unity技术, 战斗系统, 攻速机制]
 categories:
+  - - GamePlay
+    - 战斗系统
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201020172047.png
 katex: true
 aplayer:
 ---

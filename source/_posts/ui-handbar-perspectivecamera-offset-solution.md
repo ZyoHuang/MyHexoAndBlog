@@ -2,11 +2,15 @@
 title: 解决血条在透视相机下的偏移
 date:
 updated:
-tags:
+tags: [GamePlay]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/01/QQ截图20200123130210.png
 katex: true
 aplayer:
 ---

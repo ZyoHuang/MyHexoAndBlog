@@ -2,11 +2,12 @@
 title: 《大贵族》观后感
 date:
 updated:
-tags:
+tags: [多愁善感]
 categories:
+	- 读/观后感
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20210117211722.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

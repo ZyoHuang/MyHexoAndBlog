@@ -2,8 +2,12 @@
 title: 个人对于游戏UI架构的思考与总结
 date:
 updated:
-tags:
+tags: [Unity技术, UI, 游戏框架]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
 keywords:
 top_img:
 cover:
@@ -14,7 +18,7 @@ aplayer:
 
 ## 前言
 这阵子我的开源Moba项目要开始着手准备客户端的表现工作了，后端的逻辑基本上没有太大的问题。
-如果对这个项目感兴趣的可以去看一下<a href='https://gitee.com/NKG_admin/MKGMobaBasedOnET/stargazers'><img src='https://gitee.com/NKG_admin/MKGMobaBasedOnET/badge/star.svg?theme=dark' alt='star'></img></a>
+如果对这个项目感兴趣的可以去看一下<a href='https://gitee.com/NKG_admin/NKGMobaBasedOnET/stargazers'><img src='https://gitee.com/NKG_admin/NKGMobaBasedOnET/badge/star.svg?theme=dark' alt='star'></img></a>
 谈及客户端表现，UI是必不可少的一环，那么选定一个好的UI解决方案和框架就更加重要了。
 对于解决方案，我们耳熟能详的有UGUI,FGUI,NGUI等。
 对于UI框架，基本架构基本上就是MVC，MVVM这种`MV*`系列的框架。

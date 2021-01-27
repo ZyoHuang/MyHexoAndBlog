@@ -2,11 +2,15 @@
 title: ET篇：云端分布式服务器部署教程
 date:
 updated:
-tags:
+tags: [Unity技术, 游戏框架, GameFramework]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/09/QQ截图20190917124558.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

@@ -2,11 +2,15 @@
 title: Unity Shader入门精要学习笔记：Unity中的渲染优化技术
 date:
 updated:
-tags:
+tags: 图形渲染
 categories:
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/12/QQ截图20191210210541.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

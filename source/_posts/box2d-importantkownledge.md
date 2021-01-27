@@ -2,8 +2,12 @@
 title: Box2D篇：重要注意点
 date:
 updated:
-tags:
+tags: [Unity技术, Box2D]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
 cover:

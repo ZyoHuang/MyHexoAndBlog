@@ -1,11 +1,11 @@
 ---
 title: 数据结构篇：二叉树
-tags: []
-id: '1098'
+tags: 数据结构和算法
 categories:
-  - - c
-    - 数据结构
+  - - CS基础
+    - 数据结构和算法
 date: 2019-04-30 21:20:57
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/QQ截图20190430211128.png
 ---
 
 <meta name="referrer" content="no-referrer" />

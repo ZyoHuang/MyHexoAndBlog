@@ -2,11 +2,13 @@
 title: DFS和BFS
 date:
 updated:
-tags:
+tags: 数据结构和算法
 categories:
+  - - CS基础
+    - 数据结构和算法
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/QQ截图20190430210053.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

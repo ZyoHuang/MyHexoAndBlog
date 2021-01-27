@@ -2,8 +2,10 @@
 title: 图形学篇：图形学基础知识汇总（上：基础知识和图形扫描转换及填充）
 date:
 updated:
-tags:
+tags: [图形渲染]
 categories:
+  - - 图形渲染
+    - 理论知识
 keywords:
 top_img:
 cover:

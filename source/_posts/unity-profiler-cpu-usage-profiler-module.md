@@ -1,11 +1,13 @@
 ---
 title: Unity Profiler学习笔记：CPU使用分析器模块
-tags: []
+tags: Unity技术
 id: '2037'
 categories:
-  - - '%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e'
+  - - 游戏引擎
     - Unity
+  - - 性能优化
 date: 2019-09-24 23:10:17
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/09/profiler-cpu-timeline-view.png
 ---
 
 <meta name="referrer" content="no-referrer" />

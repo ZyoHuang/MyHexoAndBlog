@@ -1,11 +1,12 @@
 ---
 title: Unity Shader入门精要学习笔记：渲染流水线
-tags: []
-id: '1705'
+tags: 图形渲染
 categories:
-  - - '%e6%b8%b8%e6%88%8f%e5%bc%95%e6%93%8e'
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
     - Unity
-  - - 图形学
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/08/QQ截图20191009225439.png
 date: 2019-08-28 00:06:35
 ---
 

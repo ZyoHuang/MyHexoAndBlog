@@ -2,11 +2,12 @@
 title: 奥日&&空洞玩后感
 date:
 updated:
-tags:
+tags: [多愁善感]
 categories:
+	- 读/观后感
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201126214848.jpg
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

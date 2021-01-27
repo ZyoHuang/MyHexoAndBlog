@@ -2,8 +2,12 @@
 title: Game Engine EntityObject Models
 date:
 updated:
-tags:
+tags: [游戏引擎, 文献翻译]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
 keywords:
 top_img:
 cover:

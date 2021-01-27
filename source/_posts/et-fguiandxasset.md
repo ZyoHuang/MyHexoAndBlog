@@ -2,11 +2,15 @@
 title: ET&&FGUI接入xasset流程
 date:
 updated:
-tags:
+tags: [Unity技术, 游戏框架, GameFramework]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201016124813.png
 katex: true
 aplayer:
 ---

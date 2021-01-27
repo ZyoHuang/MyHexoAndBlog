@@ -1,9 +1,11 @@
 ---
-title: 记一次解决方案
-tags: []
-id: '2893'
+title: 记一次检测到Mac文件格式请将源文件转换为DOS格式或UNIX格式解决方案
+tags: Unity技术
 categories:
   - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 date: 2020-06-26 14:39:39
 ---
 

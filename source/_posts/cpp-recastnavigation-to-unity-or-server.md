@@ -2,11 +2,15 @@
 title: 接入Recast寻路到ET5
 date:
 updated:
-tags:
+tags: [Unity技术, C++, 寻路, Recast]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201030231659.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

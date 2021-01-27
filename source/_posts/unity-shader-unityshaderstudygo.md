@@ -1,12 +1,15 @@
 ---
 title: Unity Shader入门精要学习笔记：开始Unity Shader学习之旅
 date:
-updated:
-tags:
+tags: 图形渲染
 categories:
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/08/QQ截图20190831102907.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />
@@ -47,6 +50,7 @@ shader "Unity Shader Book/Chapter 5/Simple Shader"
 ```
 他长这样
 ![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/08/QQ截图20190831102907.png)
+
 ### 模型数据从哪里来
 在上面那个例子中，我们使用POSITION语义得到了模型的顶点位置。
 如果我们想获得更多顶点数据呢。

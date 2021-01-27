@@ -2,8 +2,12 @@
 title: Unity拖动2D和3D物体
 date:
 updated:
-tags:
+tags: Unity技术
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
 cover:

@@ -2,8 +2,9 @@
 title: 个人开源项目展示
 date:
 updated:
-tags:
+tags: [个人作品]
 categories:
+  - 个人作品集
 keywords:
 top_img:
 cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/Login.png

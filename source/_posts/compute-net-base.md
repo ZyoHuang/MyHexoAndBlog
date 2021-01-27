@@ -1,12 +1,11 @@
 ---
 title: 计算机网络重点知识整理
-tags: []
-id: '2335'
+tags: 计算机科学与技术
 categories:
-  - - 技术博客
-  - - blog
-    - 计算机基础知识
+  - - CS基础
+    - 计算机网络
 date: 2019-12-25 17:07:58
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/12/QQ截图20191224221817.png
 ---
 
 <meta name="referrer" content="no-referrer" />

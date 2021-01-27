@@ -2,11 +2,13 @@
 title: GameFramework篇：个人笔记汇总
 date:
 updated:
-tags:
+tags: [Unity技术, 游戏框架, GameFramework]
 categories:
-keywords:
-top_img:
-cover:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/20190105164355598.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />
@@ -28,3 +30,7 @@ aplayer:
 **[https://www.lfzxb.top/gameframework_network/](https://www.lfzxb.top/gameframework_network/ "https://www.lfzxb.top/gameframework_network/")**
 ### 存档模块使用示例
 **[https://www.lfzxb.top/gameframework_setting/](https://www.lfzxb.top/gameframework_setting/ "https://www.lfzxb.top/gameframework_setting/")**
+
+### VFS讲解
+
+[https://www.lfzxb.top/gameframework-vfs/](https://www.lfzxb.top/gameframework-vfs/)

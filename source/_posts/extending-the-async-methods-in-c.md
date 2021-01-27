@@ -1,11 +1,10 @@
 ---
 title: C#篇：扩展C#中的异步方法
-tags: []
-id: '1273'
+tags: [编程语言, 文献翻译]
 categories:
-  - - C#
-  - - c
-    - 数据结构
+  - - 编程语言
+    - CSharp
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/05/Async_sequence_state_machine_thumb.png
 date: 2019-05-28 17:58:20
 ---
 

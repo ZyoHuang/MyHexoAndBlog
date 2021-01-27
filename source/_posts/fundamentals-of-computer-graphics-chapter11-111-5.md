@@ -2,8 +2,10 @@
 title: 纹理映射
 date:
 updated:
-tags:
+tags: [图形渲染, 文献翻译]
 categories:
+  - - 图形渲染
+    - 基础知识
 keywords:
 top_img:
 cover:

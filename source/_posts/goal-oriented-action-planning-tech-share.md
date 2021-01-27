@@ -2,11 +2,13 @@
 title: 目标导向的AI系统（GOAP）技术分享
 date:
 updated:
-tags:
+tags: [GamePlay, AI, GOAP]
 categories:
+  - - GamePlay
+    - AI
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/image-20200730093651093.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

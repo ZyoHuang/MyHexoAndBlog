@@ -2,8 +2,10 @@
 title: 计算机组成原理复习纲要
 date:
 updated:
-tags:
+tags: 计算机科学与技术
 categories:
+  - - CS基础
+    - 计算机组成原理
 keywords:
 top_img:
 cover:

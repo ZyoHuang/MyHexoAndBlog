@@ -1,11 +1,9 @@
 ---
 title: Google.Protobuf篇：使用protoc.exe生成自己的类
-tags: []
-id: '823'
+tags: [网络编程, ProtoBuffer]
 categories:
-  - - C#
-  - - c
-    - Google.Protobuf
+  - - GamePlay
+    - 网络通信
 date: 2019-04-29 17:12:58
 ---
 

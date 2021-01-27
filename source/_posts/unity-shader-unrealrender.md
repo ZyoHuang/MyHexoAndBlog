@@ -2,11 +2,15 @@
 title: Unity Shader入门精要学习笔记：非真实感渲染
 date:
 updated:
-tags:
+tags: 图形渲染
 categories:
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/11/QQ截图20191107192120.png
 katex: true
 aplayer:
 ---
@@ -18,6 +22,7 @@ aplayer:
 要实现卡通渲染有很多方法，其中之一就是使用`基于色调的着色技术`。
 在卡通风格中，模型高光往往是一块块分界明显的纯色区域。
 [![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/11/QQ截图20191107192120.png)](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/11/QQ截图20191107192120.png)
+
 ## 渲染轮廓线
 在《Real Time Rendering, third edition》一书中，作者把这些方法分成5种类型。
 

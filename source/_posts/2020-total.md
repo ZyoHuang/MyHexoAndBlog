@@ -2,11 +2,12 @@
 title: 2020个人年度总结
 date:
 updated:
-tags:
+tags: [年终总结]
 categories:
+	- 日志
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/20201231184511.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

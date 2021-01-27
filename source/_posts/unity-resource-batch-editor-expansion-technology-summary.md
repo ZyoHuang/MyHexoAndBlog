@@ -2,8 +2,11 @@
 title: Unity资源批处理编辑器工具技术概要
 date:
 updated:
-tags:
+tags: [Unity技术, 编辑器拓展, 工具开发]
 categories:
+  - - 游戏引擎
+    - Unity
+  - 工具流
 keywords:
 top_img:
 cover:

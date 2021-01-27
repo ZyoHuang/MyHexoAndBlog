@@ -2,11 +2,15 @@
 title: Unity Shader入门精要学习笔记：基础纹理
 date:
 updated:
-tags:
+tags: 图形渲染
 categories:
+  - - 图形渲染
+    - 理论知识
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/10/QQ截图20191004231336.png
 katex: true
 aplayer:
 ---
@@ -147,6 +151,7 @@ Format决定了Unity内部使用哪种格式来存储该纹理。使用的纹理
 ![](https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/10/QQ截图20191004231336.png)
 高度图中存储的是强度值，它用于表示模型表面局部的海拔高度，因此，颜色越浅表明该位置的表面越向外凸起，而颜色越深，表明该位置越向里凹。`优点是非常直观，缺点是计算更加复杂，在实时计算时不能直接得到表面法线，需要由像素灰度值计算而得，因此需要消耗更多性能`。
 高度图通常会和发现映射一起使用，用于给出表面凹凸的额外信息，我们`通常会使用法线映射来修改光照`。
+
 ### 法线纹理
 法线纹理中存储的就是表面的法线方向。由于法线方向分量范围在[-1,1],而像素分量范围为[0,1]，所以需要一个映射
 $$pixel\;=\;\frac{normal+1}2$$

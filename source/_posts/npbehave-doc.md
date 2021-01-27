@@ -2,8 +2,12 @@
 title: NPBehave（行为树）中文文档
 date:
 updated:
-tags:
+tags: [GamePlay, AI, Behaviour Tree]
 categories:
+  - - GamePlay
+    - AI
+  - - GamePlay
+    - 实用工具
 keywords:
 top_img:
 cover:

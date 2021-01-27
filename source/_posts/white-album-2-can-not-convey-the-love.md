@@ -2,11 +2,12 @@
 title: 《白色相簿2》观后感
 date:
 updated:
-tags:
+tags: [多愁善感]
 categories:
+	- 读/观后感
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/04/QQ截图20200409101717.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

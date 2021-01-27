@@ -2,11 +2,15 @@
 title: ET篇：账号异常解决方案汇总
 date:
 updated:
-tags:
+tags: [Unity技术, 游戏框架, GameFramework]
 categories:
+  - - 游戏引擎
+    - Unity
+  - - GamePlay
+    - 游戏框架
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2019/04/b14.png
 katex: true
 aplayer:
 ---

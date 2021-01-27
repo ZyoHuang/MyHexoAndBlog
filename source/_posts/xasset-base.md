@@ -2,11 +2,16 @@
 title: xasset入门指南
 date:
 updated:
-tags:
+tags: [Unity资源管理]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
+  - 热更新技术
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/typoraImages/image-20200711145551782.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

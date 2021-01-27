@@ -2,11 +2,15 @@
 title: 制作一个带有滑块的虚拟列表
 date:
 updated:
-tags:
+tags: Unity技术
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
-cover:
+cover: https://myfirstblog.oss-cn-hangzhou.aliyuncs.com/2020/02/QQ截图20200218165835.png
 aplayer:
 ---
 <meta name="referrer" content="no-referrer" />

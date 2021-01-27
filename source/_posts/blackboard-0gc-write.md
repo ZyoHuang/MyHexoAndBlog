@@ -2,8 +2,12 @@
 title: 实现行为树黑板模块0GC赋值功能
 date:
 updated:
-tags:
+tags: [Unity技术, 行为树黑板, Blackboard]
 categories:
+  - - GamePlay
+    - 实用工具
+  - - 游戏引擎
+    - Unity
 keywords:
 top_img:
 cover:
